@@ -1,0 +1,52 @@
+.white-background {
+  background-color: white;
+  color: black;
+  height: 900px;
+}
+.hotdog-background {
+  background: url('https://www.doutor.co.jp/en/images/idx/mainVis.jpg') no-repeat center;
+  background-size: cover;
+  height: 800px;
+}
+
+div.vr {
+  color: white;
+}
+
+a.nav-item.nav-link {
+  color: white;
+}
+a.nav-link.dropdown-toggle, ul.dropdown-menu,
+a.dropdown-item {
+  color: white;
+}
+.dropdown-background {
+background-color: rgba(225, 225, 225, 0);
+}
+
+.center-text {
+  color: white;
+  height: 300px;
+}
+
+h1 {
+  margin-top: 10rem;
+  font-size: 50px;
+  /*font-weight: lighter;*/
+}
+h3 {
+  font-size: 1.0rem;
+}
+p {
+  color: black;
+}
+button.btn-outline-dark {
+  border-radius: 0px;
+}
+
+#bottomMenu {
+  align-items: center;
+  text-align-all: center;
+  color: grey;
+  font-size: x-small;
+}
